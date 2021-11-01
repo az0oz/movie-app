@@ -1,3 +1,5 @@
+A react application developed using styled-components and The Movie Database (TMDB) API to extract movies data and display them along with actors and movie cast info. The project provide searching feature to filter movies.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
